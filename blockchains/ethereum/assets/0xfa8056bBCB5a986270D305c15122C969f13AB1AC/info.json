@@ -1,0 +1,21 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "type": "ERC20",
+    "decimals": 6,
+    "description": "A safer alternative to USDT",
+    "website": "https://tether.to/en/",
+    "explorer": "https://etherscan.io/token/0xfa8056bBCB5a986270D305c15122C969f13AB1AC",
+    "status": "active",
+    "id": "0xfa8056bBCB5a986270D305c15122C969f13AB1AC"
+}{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "type": "ERC20",
+    "decimals": 6,
+    "description": "A safer alternative to USDT",
+    "website": "https://tether.to/en/",
+    "explorer": "https://etherscan.io/token/0xfa8056bBCB5a986270D305c15122C969f13AB1AC",
+    "status": "active",
+    "id": "0xfa8056bBCB5a986270D305c15122C969f13AB1AC"
+}
